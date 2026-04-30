@@ -35,11 +35,11 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#USA
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#Portugal
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#UK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTJlZTliY2M5NTcwMDk1@163.171.148.71:11201#Thailand
-vmess://eyJhZGQiOiAidmMuZmx5LmRldiIsICJhaWQiOiAzMiwgImhvc3QiOiAidmMuZmx5LmRldiIsICJpZCI6ICIzNTM3OTIxOS02NTM1LTRmMmUtYTRmZS0zZTQ0ZjYxZTBlZWUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZjIiwgInBvcnQiOiA0NDMsICJwcyI6ICJVU0EiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAidmMuZmx5LmRldiJ9
+trojan://187dda4498be9ac4f28db939d5940185@160.16.132.38:4674?security=tls&sni=www.nintendogames.net#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007147vhp.cybervena.com:50099#Taiwan
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVUsiLCAiYWRkIjogIjgyLjE5OC4yNDYuOTciLCAicG9ydCI6ICIxODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIjgyLjE5OC4yNDYuOTciLCAidGxzIjogIiJ9
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

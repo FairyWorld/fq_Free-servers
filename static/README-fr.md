@@ -35,11 +35,11 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#Pays-Bas
-trojan://trojan@152.53.200.167:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#Autriche
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQzdhUXY5RHNFTmFWZkt6VFBES1lW@212.192.14.226:41968#Russie
-vmess://eyJhZGQiOiAibjE3NTMzNDg3MzYubGllNWQuY3lvdSIsICJob3N0IjogIm4xNzUzMzQ4NzM2LmxpZTVkLmN5b3UiLCAiaWQiOiAiZjI2N2VhYzMtZGZiNC00NWJlLWE0ODAtN2UxODQ3Y2EwNGFiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIkhvbmcgS29uZyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJuMTc1MzM0ODczNi5saWU1ZC5jeW91IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.38.168.58:990#Afrique+du+Sud
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg005964vnc.cybervena.com:50099#Ta%C3%AFwan
+vmess://eyJhZGQiOiAiMTcyLjExMS4xNDYuNjQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogIjA1YjhjNzgzLTdmNTktNDdmOS05OTIzLTA2YTQ2NTY3OWY2YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiSmFwb24iLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@mx2.drawnrisha.one:55988#Royaume-Uni
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#Kazakhstan
+trojan://187dda4498be9ac4f28db939d5940185@160.16.132.38:29370?security=tls&sni=www.nintendogames.net#Japon
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>

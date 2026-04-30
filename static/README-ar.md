@@ -35,15 +35,15 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#Germany
-trojan://1234567890@64.188.70.233:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#United+States
-vmess://eyJhZGQiOiAiMTAuYTQwMC50b3AiLCAiYWlkIjogMCwgImhvc3QiOiAiMTAuYTQwMC50b3AiLCAiaWQiOiAiNjkxZWJmZTctNzU2YS00YjdkLTgzNmEtZjI5MmVmM2IyMTQ2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0NzQyLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICIxMC5hNDAwLnRvcCJ9
-trojan://1234567890@134.122.84.25:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=/?https://t.me/WangCai2🇨🇳=&sni=kfm-bn0.pages.dev&type=ws#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201#Seychelles
-trojan://1234567890@220.127.68.28:50001?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#South+Korea
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#South+Korea
-trojan://1234567890@104.248.132.134:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#Germany
-vmess://eyJhZGQiOiAiNDcuMjUwLjE1My4xMzYiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiNDcuMjUwLjE1My4xMzYiLCAiaWQiOiAiNzI0OWMzYmUtODVhZC00NmZiLWFiOTgtYzRhMDdmNGE3MjRkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyNjE4MSIsICJwcyI6ICJNYWxheXNpYSIsICJzY3kiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#United+Kingdom
+trojan://1234567890@3.73.6.186:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=/?https://t.me/WangCai2🇨🇳=&sni=kfm-bn0.pages.dev&type=ws#Germany
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#United+Kingdom
+trojan://1234567890@57.129.47.10:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#France
+trojan://1234567890@92.42.99.21:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#Bulgaria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143:8080#The+Netherlands
+trojan://1234567890@222.121.232.215:22335?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#South+Korea
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZWM0ZTZmOWU5NTRhZWFk@119.159.245.24:29700#Pakistan
+trojan://1234567890@220.84.186.84:10000?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#South+Korea
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
