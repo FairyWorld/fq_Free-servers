@@ -35,11 +35,11 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.153.107:990#Seychelles
-trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?sni=jp2-8sb.6121999.dpdns.org#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#United+States
+trojan://humanity@www.multiplydose.com:443?sni=www.multiplydose.com&type=ws&path=%2F%252F%252Fassignment#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143:8080#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNdlp3ejdWRk5aalNYOFFFdVduMzU5ZEczQXJlQW9Xcm1nSzlVdDhEWnpMSzJSazFFeUxBRmo4U3JScXRvUVUzYkVKaFVUNTFFVG1xbXlZRmlGYm11MVJQdmluTFpxZ0w=@mx2.drawnrisha.one:55988#United+Kingdom
+ss://YWVzLTI1Ni1nY206OTkzOTRjZmViZTZjMDkwNg==@185.141.219.110:30312#T%C3%BCrkiye
+trojan://humanity@www.calmlunch.com:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&type=ws#United+States
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>
