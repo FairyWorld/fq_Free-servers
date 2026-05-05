@@ -35,11 +35,11 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNTQ1YzUwYzYtdDcwZjQwLXRoaXd1bC0xZ2NxMi5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAiYWlkIjogMiwgImhvc3QiOiAiNTQ1YzUwYzYtdDcwZjQwLXRoaXd1bC0xZ2NxMi5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAiaWQiOiAiNzU5YmYwMDQtNjEzNy0xMWVjLWJkN2MtZjIzYzkxM2M4ZDJiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDgwLCAicHMiOiAiXHU5OTk5XHU2ZTJmIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogIjU0NWM1MGM2LXQ3MGY0MC10aGl3dWwtMWdjcTIuaGt0LmdvdG9jaGluYXRvd24ubmV0In0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%E8%8B%B1%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTE2MTUwZWZlZGQyZDE3@154.205.134.155:24851#%E3%82%BB%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%AB
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%E3%82%B9%E3%82%A4%E3%82%B9%E9%80%A3%E9%82%A6
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%E3%83%89%E3%82%A4%E3%83%84%E9%80%A3%E9%82%A6%E5%85%B1%E5%92%8C%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#%E8%8B%B1%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcEZpZU1UNlNvYnBxUmlLRmVmdll1N2VYazk5WGZDZVdmanBudHpTaDgxRmZNeDlSN3JKVzZMVG16SDc4U3RURWhDZDd3MzJaTXhiR0paUzk4Z3BuMW96cjlqQWJNb2E=@185.5.38.111:55988#%E8%8B%B1%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.59.243.6:990#%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.188.221:50099#%E5%8F%B0%E6%B9%BE
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@bestcf.030101.xyz:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>

@@ -35,11 +35,11 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTYyLjE1OS4xNTIuNCIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiMTllNTJiZjQtMWI3ZC00YmQ0LWFlNjYtNmNhMDI0NDM2YzE3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZyc3lzLmZsLWRsLmNvbSIsICJwYXRoIjogIi9nYnQiLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#UK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#Niederlande
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcEZpZU1UNlNvYnBxUmlLRmVmdll1N2VYazk5WGZDZVdmanBudHpTaDgxRmZNeDlSN3JKVzZMVG16SDc4U3RURWhDZDd3MzJaTXhiR0paUzk4Z3BuMW96cjlqQWJNb2E=@185.5.38.111:55988#UK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.106.228.247:990#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#Frankreich
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#UK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#UK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#Singapur
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
