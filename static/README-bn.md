@@ -35,26 +35,26 @@
  <h4>নোড তালিকা: (এখানে সর্বোচ্চ 20টি নোড দেখানো হয়। অন্যান্য বিনামূল্যের নোড অ্যাপে পাওয়া যাবে)</h4>
     
 ```
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United+States
-# 499. 🇹🇼[www.v2cross.com] Outline VPN-TW-13979399 (延迟: 271 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.179.10:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#France
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.239:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#United+States
-# 1899. 🇩🇪DE_5 | 3.2MB/s (延迟: 3702 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.100.159:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#France
-# 679. 🇻🇳VN-103.186.155.71-4850 (延迟: 345 ms)
-# 646. B - 🇯🇵 JP 01 TG: @nodpai (延迟: 335 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.34.228.41:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#United+States
-# 1519. 🇫🇷[www.v2cross.com] V2Ray Vless-FR-21066 (延迟: 1262 ms)
-# 767. >>@oneclickvpnkeys::US (延迟: 374 ms)
-# 437. 🫎83@oneclickvpnkeys (延迟: 222 ms)
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=/&security=none&encryption=none&host=Join---V2rayBaaz---Join---V2rayBaaz---Join---V2rayBaaz&type=ws#Finland
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.jpmj.dev&type=ws#Kazakhstan
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.72:38388#Vietnam
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.21.7.193:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sant.atira-40.workers.dev&path=%2Fsni.111000.dynv6.net%2F&security=tls&sni=sant.atira-40.workers.dev&type=ws#
-vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.54:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#Germany
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.191:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#Hong+Kong
-# 1266. 🇺🇸 US_127 (延迟: 872 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.42:38388#Vietnam
+# 1541. 🇩🇪[www.v2cross.com] V2Ray Vless-DE-7492 (延迟: 1269 ms)
+# 558. >>@oneclickvpnkeys::US (延迟: 294 ms)
+# 1106. 🏁ZZ_405 (延迟: 627 ms)
+# 1119. 🇭🇰[www.v2cross.com] V2Ray Vless-HK-128013 (延迟: 665 ms)
+# 1685. >>@oneclickvpnkeys::DE (延迟: 1388 ms)
+vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.18.105:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.108.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#Estonia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#United+Kingdom
+# 994. 🇻🇳VN-103.186.154.184-5200 (延迟: 493 ms)
+# 952. 🇻🇳VN-103.186.154.59-4823 (延迟: 453 ms)
+# 489. >>@oneclickvpnkeys::US (延迟: 245 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.13:38388#Vietnam
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.233:38388#Vietnam
+# 639. >>@configshub2::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK::HK (延迟: 324 ms)
+# 1763. >>@oneclickvpnkeys::DE (延迟: 1510 ms)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg0011499tl.cybervena.com:50099#Taiwan
+trojan://mSzFVhUczD@104.20.5.134:443?allowInsecure=1&alpn=http%2F1.1&host=abest.api-tel.xyz&path=%2F&sni=abest.api-tel.xyz&type=ws#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@134.209.27.216:2083?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#United+Kingdom
+# 184. @v2rayngzendegimamad🕊️ (延迟: 104 ms)
+# 85. >>@oneclickvpnkeys::US (延迟: 84 ms)
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

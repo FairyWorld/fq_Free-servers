@@ -35,26 +35,26 @@
  <h4>Lista de nós: (No máximo 20 nós são exibidos aqui. Outros nós gratuitos estão disponíveis no app.)</h4>
     
 ```
-# 115. >>@oneclickvpnkeys::US (延迟: 93 ms)
-# 1032. 🇻🇳VN-103.186.154.15-5182 (延迟: 559 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.55:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.rocks&type=ws#Fran%C3%A7a
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.0:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#Fran%C3%A7a
-# 1112. 🏳[www.v2cross.com] vless- (延迟: 696 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#Rom%C3%AAnia
-# 375. >>@v2ray_configs_pool::US (延迟: 178 ms)
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@85.121.48.77:443?encryption=none&fp=chrome&host=3-7gj.pages.dev&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&sni=3-7gj.pages.dev&type=ws#Rom%C3%AAnia
-# 1370. 🇯🇵[www.v2cross.com] V2Ray Vless-JP-12510381 (延迟: 1033 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.63:38388#Vietn%C3%A3
-# 1538. >>@oneclickvpnkeys::NL (延迟: 1270 ms)
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@158.51.110.12:443?sni=pagescm.freen5.cc.cd&type=ws&host=pagescm.freen5.cc.cd&path=/showfp=chrome&security=tls#EUA
-# 450. >>@oneclickvpnkeys::US (延迟: 232 ms)
-# 1570. B - 🇺🇸 US 47 TG: @nodpai (延迟: 1291 ms)
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#R%C3%BAssia
-# 1090. B - 🇸🇬 SG 14 TG: @nodpai (延迟: 667 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.253.60:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#Ar%C3%A1bia+Saudita
-# 1785. >>@oneclickvpnkeys::GB (延迟: 1551 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.154.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#EUA
-vmess://eyJhZGQiOiAianAwMS5hMGEueHl6IiwgImFpZCI6IDAsICJob3N0IjogImpwMDEuYTBhLnh5eiIsICJpZCI6ICIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2NjdHYxMy5tM3U4IiwgInBvcnQiOiA4MCwgInBzIjogIkphcFx1MDBlM28iLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAianAwMS5hMGEueHl6In0=
+# 1247. 🇬🇧GB_47 (延迟: 829 ms)
+# 482. >>@v2ray_configs_pool::US (延迟: 238 ms)
+trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?sni=HL-FREEDOM-1.UNDEF.NETWORK&type=tcp&fp=chrome#Ucr%C3%A2nia
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.58.50.202:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#Ir%C3%A3
+# 174. >>@oneclickvpnkeys::US (延迟: 103 ms)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#Reino+Unido
+# 690. 🏁ZZ_429 (延迟: 340 ms)
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?security=reality&encryption=none&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=3c#R%C3%BAssia
+# 518. 🇯🇵JP_2 | 3.5MB/s (延迟: 273 ms)
+ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ==@2.58.81.221:80#EUA
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.191:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%C3%81ustria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWRUZGVUdaa050YlRHQUdkZTR2VVFqcW5HU1QtYmdUUA==@144.31.96.174:8388#EUA
+trojan://8r%3C%5B9%27l6hAO%238ZQi@77.110.114.254:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#L%C3%ADbano
+# 629. 🇻🇳VN-103.186.154.185-5051 (延迟: 321 ms)
+trojan://162534@46.8.226.108:443?allowInsecure=0&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560#R%C3%BAssia
+# 1324. 🇹🇷[www.v2nodes.com] V2Ray Vmess-TR-13655390 (延迟: 963 ms)
+vless://bafacd98-136a-4530-838d-4e5c51838dac@146.190.233.213:8443?encryption=none&fp=firefox&host=juzi8186.qea.ccwu.cc&security=tls&sni=juzi8186.qea.ccwu.cc&type=ws#Holanda
+# 1076. 🇺🇸[www.v2cross.com] V2Ray Vless-US-213596 (延迟: 581 ms)
+vless://f2a73750-3087-48ff-a763-1348c15dce68@162.159.153.4:443?allowInsecure=1&encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&type=ws#
+# 310. 🇸🇬[www.v2cross.com] V2Ray Vless-SG-3429 (延迟: 134 ms)
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>

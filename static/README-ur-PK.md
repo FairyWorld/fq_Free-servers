@@ -35,26 +35,26 @@
  <h4>نوڈ کی فہرست: (یہاں زیادہ سے زیادہ 20 نوڈز دکھائے جاتے ہیں۔ دیگر مفت نوڈز ایپ میں حاصل کریں)</h4>
     
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.150.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#United+States
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.64.147.223:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#United+States
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.28.76:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#Saudi+Arabia
-# 1113. >>@oneclickvpnkeys::US (延迟: 697 ms)
-trojan://8r%3C%5B9%27l6hAO%238ZQi@219.76.13.166:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#Hong+Kong
-# 1547. 🌐 tel : @v2ray_unit (延迟: 1279 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#United+Kingdom
-vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@62.141.42.201:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&security=reality&sid=81&sni=google.com&type=tcp#Germany
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.19:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#United+States
-# 28. vmessorg (延迟: 71 ms)
-# 395. >>@oneclickvpnkeys::US (延迟: 191 ms)
-vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@91.244.70.205:443?encryption=none&path=%2F&security=none&type=ws#Poland
-# 1656. >>@oneclickvpnkeys::FR (延迟: 1365 ms)
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@178.128.95.74:443?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#Singapore
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.228:38388#Vietnam
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.179.45:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#France
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.23.173:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#Saudi+Arabia
-vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?encryption=none&host=germany.xydcqd.workers.dev&path=%2F%40WireXnet&security=none&type=ws#
-vless://f2a73750-3087-48ff-a763-1348c15dce68@162.159.153.4:443?allowInsecure=1&encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&type=ws#
-# 813. 🇹🇭[www.v2nodes.com] V2Ray Vmess-TH-14006811 (延迟: 395 ms)
+# 1552. 🇬🇧[www.v2cross.com] V2Ray Vless-GB-12956741 (延迟: 1276 ms)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#United+Kingdom
+# 957. 🏁ZZ_274 (延迟: 456 ms)
+hysteria2://cf0d5100-ac9d-4f5a-b58e-c70f9ee49b8a@hk2.sevenka.top:34561?insecure=1#Hong+Kong
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.228.135.238:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#France
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.19:38388#Vietnam
+# 334. >>@oneclickvpnkeys::US (延迟: 142 ms)
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@love.zshabai.top:443?allowInsecure=1&encryption=none&host=2-eox.pages.dev&security=tls&sni=2-eox.pages.dev&type=ws#United+States
+# 962. 🏁ZZ_422 (延迟: 460 ms)
+# 1036. A - 🇭🇰 HK 01 TG: @nodpai (延迟: 537 ms)
+# 178. >>@oneclickvpnkeys::US (延迟: 103 ms)
+# 559. 🏁ZZ_254 (延迟: 294 ms)
+# 1218. 🇨🇦CA_6 | 1.9MB/s (延迟: 789 ms)
+# 286. >>@oneclickvpnkeys::US (延迟: 128 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.141:38388#Vietnam
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.246.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#United+Kingdom
+# 40. >>@oneclickvpnkeys::US (延迟: 73 ms)
+trojan://8r%3C%5B9%27l6hAO%238ZQi@155.248.168.35:18122?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2#Japan
+# 1104. B - 🇸🇬 SG 14 TG: @nodpai (延迟: 626 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.180.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#The+Netherlands
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

@@ -35,26 +35,26 @@
  <h4>قائمة العقد: (يتم عرض 20 عقدة كحد أقصى هنا. تتوفر العقد المجانية الأخرى في التطبيق)</h4>
     
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.84.183.222:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#Germany
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.93.253.207:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#The+Netherlands
-hysteria2://4ea3d542-c5a9-4f8e-9bce-d6f0e75e0fda@107.172.224.252:31663?insecure=1&fp=&sni=&obfs=&obfs-password=#Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.146:8080#United+Kingdom
-# 752. 🇬🇧 英国 V2CROSS.COM (延迟: 368 ms)
-trojan://8r%3C%5B9%27l6hAO%238ZQi@15.204.173.154:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#United+States
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.174.80.238:443?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#United+States
-# 1620. >>@oneclickvpnkeys::DE (延迟: 1336 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@151.242.69.214:2053?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#Iran
-# 1608. 🇫🇮[www.v2cross.com] V2Ray Vless-FI-162824 (延迟: 1330 ms)
-# 1368. C - 🇭🇰 HK 22 TG: @nodpai (延迟: 1030 ms)
-# 557. 🇻🇳VN-103.186.155.55-4904 (延迟: 299 ms)
-# 1879. 🇦🇺[www.v2cross.com] Outline VPN-AU-11625512 (延迟: 2771 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.211.204:81?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#Latvia
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.17.72.206:443?encryption=none&type=ws&host=hio-awx.pages.dev&path=/?ed=2048/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&sni=hio-awx.pages.dev#
-vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODAwMzliNGQtYmFjMC00Zjg5LTgyYzctNTRmYWQzYjBhMWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6IDg2MTMsICJwcyI6ICJNYWxheXNpYSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-# 596. 🇻🇳VN-103.186.155.34-4923 (延迟: 316 ms)
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@178.62.67.149:443?allowInsecure=1&encryption=none&host=3-7gj.pages.dev&security=tls&sni=3-7gj.pages.dev&type=ws#United+Kingdom
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.154:2053?path=/?ed=2560&Telegram@v2rayngzendegimamad&security=tls&encryption=none&insecure=1&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#France
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#United+Kingdom
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.182.234:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#France
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.160:38388#Vietnam
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.141.125:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#Spain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.235.56.69:990#Austria
+# 378. >>@oneclickvpnkeys::US (延迟: 163 ms)
+# 233. >>@oneclickvpnkeys::US (延迟: 113 ms)
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#Vietnam
+# 1013. 🇻🇳VN-103.186.155.13-5002 (延迟: 510 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.55.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#United+Kingdom
+# 541. 🇺🇸US_9 | 1021KB/s (延迟: 286 ms)
+# 737. 🇭🇰[www.v2cross.com] Trojan VPN-HK-12310723 (延迟: 358 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.43:443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#United+States
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#United+States
+# 700. 🇯🇵[www.v2cross.com] V2Ray Vless-JP-13941070 (延迟: 344 ms)
+# 823. 🏁ZZ_224 (延迟: 387 ms)
+# 83. >>@oneclickvpnkeys::US (延迟: 84 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@85.92.108.39:443?allowInsecure=1&encryption=none&host=sni.111000.v6.army&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&sni=sni.111000.v6.army&type=ws#The+Netherlands
+# 1145. 🇩🇪[www.v2cross.com] Outline VPN-DE-12471532 (延迟: 721 ms)
+# 1702. B - 🇺🇸 US 32 TG: @nodpai (延迟: 1404 ms)
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

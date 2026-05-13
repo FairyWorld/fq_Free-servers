@@ -35,26 +35,26 @@
  <h4>Knotenliste: (Hier werden maximal 20 Knoten angezeigt. Weitere kostenlose Knoten erhalten Sie in der App.)</h4>
     
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.158:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#Frankreich
-# 1110. B - 🇯🇵 JP 05 TG: @nodpai (延迟: 695 ms)
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#Niederlande
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.198:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#USA
-# 1883. B - 🇸🇬 SG 05 TG: @nodpai (延迟: 3303 ms)
-# 253. B - 🇭🇰 HK 11 TG: @nodpai (延迟: 124 ms)
-# 483. B - 🇸🇬 SG 09 TG: @nodpai (延迟: 259 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#Estland
-# 487. 🇻🇳VN-103.186.155.16-4968 (延迟: 265 ms)
-# 739. >>@oneclickvpnkeys::US (延迟: 363 ms)
-trojan://8r%3C%5B9%27l6hAO%238ZQi@107.170.40.201:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#USA
-# 1625. >>@oneclickvpnkeys::GB (延迟: 1339 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.141.125:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#Spanien
-# 1431. 🇳🇱TM (@AZARBAYJAB1) (延迟: 1166 ms)
-# 1889. 🇻🇳VN-103.186.154.67-5192 (延迟: 3411 ms)
-vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&path=%2F&security=none&type=ws#
-trojan://8r%3C%5B9%27l6hAO%238ZQi@165.227.26.242:2096?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#USA
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#
-vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&sni=yahoo.com&allowInsecure=1&fp=chrome&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e&type=tcp&packetEncoding=xudp&encryption=none#Italien
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.64.147.223:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#USA
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.43:443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#USA
+# 1190. 🇪🇸[www.v2nodes.com] V2Ray Vmess-ES-13483689 (延迟: 770 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.188:38388#Vietnam
+trojan://humanity@185.18.250.245:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=%2Fassignment&host=www.calmlunch.com&fp=chrome#Schweiz
+# 1233. 🇬🇧GB_4 | 1.3MB/s (延迟: 806 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.26:38388#Vietnam
+# 202. >>@oneclickvpnkeys::US (延迟: 107 ms)
+# 1431. B - 🇺🇸 US 42 TG: @nodpai (延迟: 1116 ms)
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#T%C3%BCrkei
+# 471. >>@oneclickvpnkeys::US (延迟: 230 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.19.60:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#Saudi-Arabien
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.168:38388#Vietnam
+vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODAwMzliNGQtYmFjMC00Zjg5LTgyYzctNTRmYWQzYjBhMWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6IDg2MTMsICJwcyI6ICJNYWxheXNpYSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+trojan://8r%3C%5B9%27l6hAO%238ZQi@155.248.213.201:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#Ukraine
+# 1406. 🇫🇷FR_14 | 1.9MB/s (延迟: 1066 ms)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFBsSVZ1Ulo2VUp5YXBWRGVUKytsN2ZZQzB1b3dYSkZsYjlxaG50QWQ0PQ==@154.18.239.126:37425#USA
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.35:38388#Vietnam
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#Kasachstan
+# 1498. >>@configshub2::RS (延迟: 1238 ms)
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

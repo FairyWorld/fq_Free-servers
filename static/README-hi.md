@@ -35,26 +35,26 @@
  <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.80:38388#Vietnam
-# 435. >>@oneclickvpnkeys::US (延迟: 221 ms)
-# 890. 🇻🇳VN-103.186.155.28-4954 (延迟: 434 ms)
-# 730. 🇻🇳VN-103.186.154.233-4973 (延迟: 360 ms)
-# 994. 🏁ZZ_170 (延迟: 520 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.64.142.210:8443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&security=tls&sni=sni.111000.dns.army&type=ws#Hong+Kong
-vmess://eyJhZGQiOiAiNDUuOTIuNzAuMjM2IiwgInYiOiAiMiIsICJwcyI6ICJJdGFseSIsICJwb3J0IjogMjIzMjQsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-# 213. >>@oneclickvpnkeys::US (延迟: 113 ms)
-vless://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?security=tls&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&encryption=none#
-vmess://eyJhZGQiOiAidXMwMi5iY3R1by50b3AiLCAiYWlkIjogMCwgImlkIjogIjMxODAxOTY4LTk4NzctNGVmNS1iZTg3LTU2NTAzYzM0YTY5ZCIsICJuZXQiOiAidGNwIiwgInBvcnQiOiAxNDQzLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@38.175.192.201:443?allowInsecure=0&sni=gogo.wknm.dpdns.org&type=ws&host=gogo.wknm.dpdns.org&path=/fp=chrome&security=tls#United+States
-# 67. 🇸🇬[www.v2cross.com] V2Ray Vless-SG-7456 (延迟: 81 ms)
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp&security=none#Japan
-# 390. >>@oneclickvpnkeys::US (延迟: 187 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#Romania
-# 753. 🇻🇳VN-103.186.154.217-5199 (延迟: 368 ms)
-# 1688. >>@oneclickvpnkeys::NL (延迟: 1398 ms)
-# 1572. >>@configshub2::FR (延迟: 1292 ms)
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@64.176.44.23:443?&security=tls&fp=chrome&sni=3-2ll.pages.dev&type=ws&headerType=none&host=3-2ll.pages.dev&path=/proxyip=ProxyIP.DE.owg.dpdns.org#Japan
-# 1265. 🇺🇸 US_126 (延迟: 872 ms)
+trojan://8r%3C%5B9%27l6hAO%238ZQi@91.200.242.118:26517?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#Japan
+# 957. 🏁ZZ_274 (延迟: 456 ms)
+# 1063. 🏁ZZ_375 (延迟: 566 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.142.165:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.rocks&type=ws#United+Kingdom
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.237:8443?encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#France
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.233:38388#Vietnam
+# 1211. 🇳🇱[www.v2cross.com] Outline VPN-NL-12811423 (延迟: 781 ms)
+# 1480. >>@configshub2::GB (延迟: 1218 ms)
+# 919. C - 🇭🇰 HK 22 TG: @nodpai (延迟: 432 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.170:38388#Vietnam
+# 1136. @monacoVPN (延迟: 705 ms)
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.33:8880?note=---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---&mode=gun&security=none&encryption=none&type=grpc#Mexico
+# 888. 🏁ZZ_329 (延迟: 417 ms)
+# 174. >>@oneclickvpnkeys::US (延迟: 103 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.174.80.238:443?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#United+States
+# 1413. 🇫🇷[www.v2cross.com] V2Ray Vless-FR-13618845 (延迟: 1078 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.40:38388#Vietnam
+# 478. 🇸🇬[www.v2nodes.com] V2Ray Vmess-SG-7314090 (延迟: 237 ms)
+# 249. >>@oneclickvpnkeys::US (延迟: 119 ms)
+# 226. >>@oneclickvpnkeys::US (延迟: 112 ms)
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

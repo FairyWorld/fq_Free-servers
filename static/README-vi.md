@@ -35,26 +35,26 @@
  <h4>Danh sách nút: (Tối đa 20 nút được hiển thị tại đây. Các nút miễn phí khác có thể lấy trong ứng dụng.)</h4>
     
 ```
-# 834. 🏁ZZ_188 (延迟: 402 ms)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#Taiwan
-# 566. 🇻🇳VN-103.186.154.61-4858 (延迟: 302 ms)
-vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzc3ZjQ4ZjUtNGJlMy00NDYxLWI1MmItNDk5OThlN2I4OTdiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6IDQzMDYzLCAicHMiOiAiTWFsYXlzaWEiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-# 1115. 🇮🇩کانال کانفیگ ها: @customv2ray (延迟: 701 ms)
-# 1601. 🇩🇪[www.v2cross.com] V2Ray Vless-DE-14487 (延迟: 1323 ms)
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.58.50.110:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#Iran
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.23:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#The+Netherlands
-# 801. 🇻🇳VN-103.186.155.37-4803 (延迟: 390 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.116.7.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#Japan
-vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@172.67.134.82:443?allowInsecure=1&encryption=none&host=labeller.neonime83.workers.dev&path=%2F&security=tls&sni=labeller.neonime83.workers.dev&type=ws#United+States
-# 436. >>@oneclickvpnkeys::US (延迟: 221 ms)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#The+Netherlands
-# 694. 🇻🇳VN-103.186.155.69-4819 (延迟: 348 ms)
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#Germany
-# 257. B - 🇺🇸 US 03 TG: @nodpai (延迟: 126 ms)
-# 110. >>@oneclickvpnkeys::US (延迟: 91 ms)
-# 1913. 🇦🇹[www.v2cross.com] Outline VPN-AT-13206127 (延迟: 6104 ms)
-# 1453. >>@oneclickvpnkeys::DE (延迟: 1201 ms)
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.105:41632#Taiwan
+trojan://8r%3C%5B9%27l6hAO%238ZQi@38.207.173.72:26546?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2#Hong+Kong
+# 1727. >>@oneclickvpnkeys::NL (延迟: 1435 ms)
+vless://36a857e4-f3d4-43aa-8b90-d7da849da989@172.67.164.152:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=002.inc-electrocell-001-002.workers.dev&path=%2FeyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=002.Inc-ElectROcElL-001-002.WoRKERS.DEV&type=ws#United+States
+# 309. >>@configshub2::US (延迟: 134 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.7.205:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed&security=tls&sni=sni.111000.indevs.in&type=ws#
+# 209. >>@oneclickvpnkeys::US (延迟: 108 ms)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#United+Kingdom
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAiYWRkIjogIjgyLjE5OC4yNDYuMjE0IiwgInBvcnQiOiAiMTgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICI4Mi4xOTguMjQ2LjIxNCIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.145:38388#Vietnam
+# 105. 🇸🇬[www.v2cross.com] V2Ray Vless-SG-7456 (延迟: 89 ms)
+# 50. >>@oneclickvpnkeys::US (延迟: 76 ms)
+# 1684. >>@oneclickvpnkeys::DE (延迟: 1388 ms)
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#The+Netherlands
+hysteria2://c5533e6c-6d4f-4b01-b1c8-4fb952631e73@dmit.solistrumo.com:25004?alpn=h3&sni=dmit.solistrumo.com#United+States
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.175.141.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#Germany
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.145.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#United+States
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.221:38388#Vietnam
+# 256. >>@oneclickvpnkeys::US (延迟: 120 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.16.244:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#Saudi+Arabia
+# 791. >>@oneclickvpnkeys::US (延迟: 377 ms)
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

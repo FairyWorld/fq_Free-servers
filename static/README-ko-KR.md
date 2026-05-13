@@ -35,26 +35,26 @@
  <h4>노드 목록: (여기에는 최대 20개 노드만 표시됩니다. 다른 무료 노드는 앱에서 받을 수 있습니다.)</h4>
     
 ```
-# 1802. >>@oneclickvpnkeys::XX (延迟: 1614 ms)
-# 1525. >>@oneclickvpnkeys::NL (延迟: 1264 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.42:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#United+States
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.16:38388#Vietnam
-trojan://8r%3C%5B9%27l6hAO%238ZQi@142.91.108.54:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#United+States
-# 1851. B - 🇯🇵 JP 16 TG: @nodpai (延迟: 2028 ms)
-# 1763. 🇫🇮[www.v2cross.com] ss-FI (延迟: 1504 ms)
-# 1648. @v2rayconfigamir 2912 (延迟: 1357 ms)
-# 239. >>@oneclickvpnkeys::US (延迟: 120 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.205:38388#Vietnam
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.27:38388#Vietnam
-# 1811. >>@oneclickvpnkeys::NL (延迟: 1670 ms)
-# 107. >>@oneclickvpnkeys::US (延迟: 91 ms)
-# 1244. 🇬🇧GB-82.38.31.217-0229 (延迟: 833 ms)
-# 1908. 🇹🇭[www.v2cross.com] Outline VPN-TH-11389833 (延迟: 5355 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.197.183.219:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#Germany
-# 1333. @v2rayngzendegimamad🕊️ (延迟: 987 ms)
-# 923. >>@v2ray_configs_pool::TH (延迟: 455 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.45:38388#Vietnam
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.161:38388#Vietnam
+# 1715. 🫎30@oneclickvpnkeys (延迟: 1421 ms)
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@63.141.128.3:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#United+States
+# 1276. >>@oneclickvpnkeys::US (延迟: 874 ms)
+# 1627. [53031] - Telegram : @V2All (延迟: 1334 ms)
+# 1526. >>@oneclickvpnkeys::FR (延迟: 1264 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.60.235.102:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.army&type=ws#Hong+Kong
+# 1756. >>@oneclickvpnkeys::FR (延迟: 1489 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.128:38388#Vietnam
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.156.19.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#United+Kingdom
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.36:38388#Vietnam
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.247:38388#Vietnam
+hysteria2://c5533e6c-6d4f-4b01-b1c8-4fb952631e73@app.aaxab.com:25004?insecure=1#United+States
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAiYWRkIjogIjgyLjE5OC4yNDYuMjUwIiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICIifQ==
+# 393. 🇸🇬SG-103.36.91.32-0288 (延迟: 170 ms)
+# 1870. @v2rayconfigamir 1187 (延迟: 2362 ms)
+# 546. 🏁ZZ_342 (延迟: 288 ms)
+# 558. >>@oneclickvpnkeys::US (延迟: 294 ms)
+# 1158. 🇳🇱NL_6 | 1.7MB/s (延迟: 738 ms)
+trojan://8r%3C%5B9%27l6hAO%238ZQi@64.23.206.167:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#United+States
+# 983. 🇺🇸[www.v2cross.com] Outline VPN-US-763107 (延迟: 484 ms)
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

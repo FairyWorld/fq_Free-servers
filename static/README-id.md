@@ -35,26 +35,26 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-# 1607. 🫎80@oneclickvpnkeys (延迟: 1330 ms)
-# 1537. >>@oneclickvpnkeys::GB (延迟: 1269 ms)
-vless://2de34838-1270-4fb0-bbe5-dfc9aa5c01a1@5.180.54.54:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&security=reality&sni=www.microsoft.com&type=tcp#United+States
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.34.228.160:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#United+States
-# 1690. >>@oneclickvpnkeys::GB (延迟: 1399 ms)
-vless://b818576e-951a-4a9c-879a-d32611b977ad@8.39.125.169:8443?allowInsecure=1&encryption=none&fp=chrome&host=cocobaby.pages.dev&path=%2F&security=tls&sni=cocobaby.pages.dev&type=ws#Malaysia
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@50.228.203.26:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram#United+States
-# 437. 🫎83@oneclickvpnkeys (延迟: 222 ms)
-vless://d555dac9-27cb-4ddb-89f5-6a1d8d1e4798@198.41.223.121:443?encryption=none&host=momi.timoreyhaneh.workers.dev&security=tls&sni=momi.timoreyhaneh.workers.dev&type=ws#
-# 1135. 🇹🇼[www.v2cross.com] V2Ray Vless-TW-383121 (延迟: 732 ms)
-# 1175. 🇬🇧GB_36 (延迟: 766 ms)
-# 33. >>@oneclickvpnkeys::US (延迟: 73 ms)
-# 1191. 🇷🇺RU_100 (延迟: 783 ms)
-# 1002. 🇰🇷KR-141.164.45.187-0338 (延迟: 529 ms)
-# 1419. B - 🇺🇸 US 40 TG: @nodpai (延迟: 1144 ms)
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#Brazil
-trojan://humanity@104.17.150.76:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#
-# 112. B - 🇯🇵 JP 07 TG: @nodpai (延迟: 92 ms)
-# 1883. B - 🇸🇬 SG 05 TG: @nodpai (延迟: 3303 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@218.158.249.174:10000?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#South+Korea
+trojan://8r%3C%5B9%27l6hAO%238ZQi@47.76.218.163:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#Hong+Kong
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2096?encryption=none&type=ws&host=sni.jpmj.dev&path=/?ed=2560&security=tls&sni=sni.jpmj.dev#United+States
+# 298. >>@oneclickvpnkeys::US (延迟: 131 ms)
+# 427. B - 🇭🇰 HK 06 TG: @nodpai (延迟: 196 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#Germany
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.226:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#United+States
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#Canada
+# 926. 🇻🇳VN-103.186.155.238-5208 (延迟: 434 ms)
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.238.170.163:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2#United+Kingdom
+# 755. 🇻🇳VN-103.186.154.48-5180 (延迟: 363 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.70:38388#Vietnam
+# 1617. >>@oneclickvpnkeys::NL (延迟: 1328 ms)
+# 1751. B - 🇺🇸 US 34 TG: @nodpai (延迟: 1479 ms)
+# 301. 🇸🇬[www.v2cross.com] vless-SG (延迟: 132 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.180.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#The+Netherlands
+# 784. 🏁ZZ_211 (延迟: 374 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.124.203.126:443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.dns.army&type=ws#United+States
+# 1658. 🇫🇮[www.v2cross.com] vless-FI (延迟: 1358 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#
+# 1334. 🇲🇰[www.v2cross.com] Outline VPN-MK-11857227 (延迟: 981 ms)
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

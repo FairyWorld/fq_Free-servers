@@ -35,26 +35,26 @@
  <h4>Lista de nodos: (Aquí se muestran como máximo 20 nodos. Los demás nodos gratuitos se obtienen en la app.)</h4>
     
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.62:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#Francia
-# 415. >>@oneclickvpnkeys::US (延迟: 207 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.127:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#Holanda
-# 416. JP VLESS-78 | free-nodes (延迟: 208 ms)
-# 517. @chillguy_vpn (延迟: 283 ms)
-vless://cc0c5ff2-00b5-4dcb-8811-076c637911c4@174.136.205.68:443?type=tcp&security=reality&sni=navi.bankrate.com&fp=random&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6#Estados+Unidos
-# 906. 🇻🇳VN-103.186.155.125-4889 (延迟: 446 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.191:443?encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#Singapur
-trojan://humanity@172.67.180.92:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#Estados+Unidos
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.180.2.141:5499#Bulgaria
-# 1843. 🍑16@oneclickvpnkeys (延迟: 1892 ms)
-# 526. 🏁ZZ_436 (延迟: 287 ms)
-# 1299. 🔑6@oneclickvpnkeys (延迟: 948 ms)
-# 24. >>@oneclickvpnkeys::US (延迟: 70 ms)
-# 961. 🇻🇳VN-103.186.155.113-4768 (延迟: 484 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.209:38388#Vietnam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg0034686rw.cybervena.com:50099#Taiw%C3%A1n
-# 802. 🇻🇳VN-103.186.154.37-4951 (延迟: 390 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.56:38388#Vietnam
-# 1368. C - 🇭🇰 HK 22 TG: @nodpai (延迟: 1030 ms)
+# 1899. 🇺🇸[www.v2cross.com] V2Ray Vless-US-13950650 (延迟: 4689 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2096?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#
+# 1529. 🇬🇧[www.v2cross.com] vless-GB (延迟: 1264 ms)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.57.90:990#Brasil
+vless://2088ef0d-4d2c-43b3-874b-b6a03531c81b@104.20.6.134:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=r.mediashoppp.sbs&path=%2FeyJqdW5rIjoiVVpPeXNodUFQMHNVcU12aCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=r.meDiASHOPPp.sbS&type=ws#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@121.191.33.84:30303?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#Corea+del+Sur
+vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&sid=958639bf55e679&type=tcp&headerType=none#Grecia
+# 113. >>@oneclickvpnkeys::US (延迟: 91 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.238:38388#Vietnam
+# 1484. 🇫🇷[www.v2cross.com] V2Ray Vless-FR-3416030 (延迟: 1221 ms)
+# 990. B - 🇭🇰 HK 14 TG: @nodpai (延迟: 489 ms)
+vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&security=reality&sid=c906f73d3ba8211f&sni=www.leboncoin.fr&type=tcp#Reino+Unido
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@160.153.0.78:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#Estados+Unidos
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.4:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#Alemania
+# 757. >>@oneclickvpnkeys::US (延迟: 364 ms)
+# 857. 🇻🇳VN-103.186.154.55-0356 (延迟: 403 ms)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@111.248.100.170:50099#Taiw%C3%A1n
+# 322. >>@oneclickvpnkeys::US (延迟: 137 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.23:38388#Vietnam
+# 763. >>@oneclickvpnkeys::US (延迟: 366 ms)
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

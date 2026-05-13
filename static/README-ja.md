@@ -35,26 +35,26 @@
  <h4>ノード リスト: (ここには最大20個のノードのみ表示されます。その他の無料ノードはアプリで取得できます)</h4>
     
 ```
-# 327. >>@oneclickvpnkeys::US (延迟: 148 ms)
-# 1744. >>@oneclickvpnkeys::GB (延迟: 1465 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.5:38388#%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.49:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
-# 347. ⛲92@oneclickvpnkeys (延迟: 160 ms)
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@141.193.213.10:443?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-# 252. >>@oneclickvpnkeys::US (延迟: 124 ms)
-# 978. B - 🇯🇵 JP 15 TG: @nodpai (延迟: 503 ms)
-# 875. >>@oneclickvpnkeys::US (延迟: 423 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.7.205:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed&security=tls&sni=sni.111000.indevs.in&type=ws#
-# 1318. 🇸🇪[www.v2cross.com] V2Ray Vless-SE-7725232 (延迟: 971 ms)
-vmess://eyJhZGQiOiAiNDcuMjQzLjEzNS43NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTM3NTk4NWUtMzM0YS00YzI1LThmNjQtNTJhMTgyYmM4MDM3IiwgImluc2VjdXJlIjogIjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL05vdGlmX0NoYXQiLCAicG9ydCI6IDU1MTg1LCAicHMiOiAiXHU5OTk5XHU2ZTJmIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAibmFtZSI6ICI+PkBmbHl2MnJheTo6SEs6OkhLOjpISzo6SEs6OkhLIn0=
-# 1302. 🇳🇱[www.v2cross.com] V2Ray Vless-NL-12908405 (延迟: 952 ms)
-# 1529. TR VLESS-58 | free-nodes (延迟: 1265 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.140:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.v6.rocks&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.rocks&type=ws#%E8%8B%B1%E5%9B%BD
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.77.213.238:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.191:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2
-# 490. >>@oneclickvpnkeys::US (延迟: 265 ms)
-# 3. 🇺🇸[www.v2cross.com] V2Ray Vless-US-564670 (延迟: 54 ms)
-# 1688. >>@oneclickvpnkeys::NL (延迟: 1398 ms)
+# 1861. 🇦🇲[www.v2cross.com] V2Ray Vless-AM-10786073 (延迟: 2187 ms)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.57.251.240:990#%E3%82%A2%E3%83%A9%E3%83%96%E9%A6%96%E9%95%B7%E5%9B%BD%E9%80%A3%E9%82%A6
+# 531. 🇩🇪DE_1 | 1.3MB/s (延迟: 279 ms)
+trojan://humanity@104.16.147.104:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
+# 1553. 🇳🇱[www.v2cross.com] V2Ray Vless-NL-18347 (延迟: 1276 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.63:38388#%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0
+# 729. 🏁ZZ_413 (延迟: 356 ms)
+# 965. 🇻🇳VN-103.186.155.146-4744 (延迟: 465 ms)
+# 1720. B - 🇺🇸 US 47 TG: @nodpai (延迟: 1431 ms)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#%E8%8B%B1%E5%9B%BD
+# 944. >>@oneclickvpnkeys::US (延迟: 448 ms)
+# 1656. 🇳🇱[www.v2cross.com] vless-NL (延迟: 1357 ms)
+# 239. @V2ray_confiig` (延迟: 115 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram#%E3%82%A4%E3%83%B3%E3%83%89
+# 1521. 🇬🇧[www.v2cross.com] vless-GB (延迟: 1260 ms)
+trojan://8r%3C%5B9%27l6hAO%238ZQi@143.198.31.221:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+# 1830. >>@OutlineVpnOfficial::BO (延迟: 1829 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.203:38388#%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0
+# 1566. >>@oneclickvpnkeys::GB (延迟: 1284 ms)
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>
