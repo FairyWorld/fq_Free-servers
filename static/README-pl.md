@@ -35,26 +35,26 @@
  <h4>Lista węzłów: (Tutaj wyświetlanych jest maksymalnie 20 węzłów. Pozostałe bezpłatne węzły są dostępne w aplikacji.)</h4>
     
 ```
-vless://79b78774-0ccd-4792-aa2d-189887dd987f@tokyo1.ap221.com:443?sni=tokyo.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#Japan
-# 84. >>@outline_vpn::US (延迟: 84 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#United+States
-# 358. >>@oneclickvpnkeys::US (延迟: 155 ms)
-# 835. 🏁ZZ_175 (延迟: 392 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.106:38388#Vietnam
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.152:38388#Vietnam
-# 1635. >>@oneclickvpnkeys::NL (延迟: 1342 ms)
-# 758. 🏁ZZ_425 (延迟: 364 ms)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#United+Kingdom
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443?path=%2F%3Fed&security=tls&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.user68f797c2f3e1b.workers.dev#
-# 759. 🇻🇳VN-103.186.154.50-4766 (延迟: 364 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@216.250.97.82:38388#Hong+Kong
-# 404. >>@oneclickvpnkeys::US (延迟: 180 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.22.18.18:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#Germany
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.152.23:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F&sni=sni.111000.dynv6.net&type=ws#United+States
-# 234. >>@oneclickvpnkeys::US (延迟: 114 ms)
-vless://43488128-319e-f480-64ea-0acdc712e2a8@51.158.62.94:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nUl4-UbSlrf8sCY4QNCKF3dMmgWLWJbgeziVqwfklhU&security=reality&sid=ad3c6641d540b4e1&sni=www.laposte.fr&type=tcp#France
-# 1204. 🇷🇺[www.v2cross.com] Outline VPN-RU-13827659 (延迟: 777 ms)
-# 21. 🇺🇸[www.v2cross.com] V2Ray Vless-US-7869427 (延迟: 68 ms)
+# 251. >>@oneclickvpnkeys::US (延迟: 119 ms)
+# 1526. >>@oneclickvpnkeys::FR (延迟: 1264 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.42:38388#Vietnam
+# 937. 🇬🇧GB_51 (延迟: 444 ms)
+# 216. >>@oneclickvpnkeys::US (延迟: 110 ms)
+# 850. 🇻🇳VN-103.186.154.56-4780 (延迟: 400 ms)
+# 1065. 🇰🇷[www.v2cross.com] V2Ray Vless-KR-324625 (延迟: 567 ms)
+# 567. 🇻🇳VN-103.186.154.247-4964 (延迟: 297 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.42:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#United+States
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@auth.vercel.com:443?path=/&security=tls&encryption=none&insecure=0&host=y6-3cj.pages.dev&type=ws&allowInsecure=0&sni=y6-3cj.pages.dev#
+# 919. C - 🇭🇰 HK 22 TG: @nodpai (延迟: 432 ms)
+# 1737. >>@oneclickvpnkeys::FR (延迟: 1456 ms)
+hysteria2://c5533e6c-6d4f-4b01-b1c8-4fb952631e73@bwg.11022.net:25004?alpn=h3&sni=bwg.11022.net#United+States
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.17:38388#Vietnam
+# 799. 🇻🇳VN-103.186.154.219-4800 (延迟: 378 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.185.207:443?allowInsecure=1&alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&sni=sni.111000.dynv6.net&type=ws#
+# 287. >>@oneclickvpnkeys::US (延迟: 128 ms)
+# 1166. v2raygulf (延迟: 750 ms)
+# 2. 🇯🇵 JP | SS | @outlinereleasedkey #1 (延迟: 38 ms)
+# 583. 🇻🇳VN-103.186.154.241-4938 (延迟: 304 ms)
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

@@ -35,26 +35,26 @@
  <h4>ノード リスト: (ここには最大20個のノードのみ表示されます。その他の無料ノードはアプリで取得できます)</h4>
     
 ```
-# 1861. 🇦🇲[www.v2cross.com] V2Ray Vless-AM-10786073 (延迟: 2187 ms)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.57.251.240:990#%E3%82%A2%E3%83%A9%E3%83%96%E9%A6%96%E9%95%B7%E5%9B%BD%E9%80%A3%E9%82%A6
-# 531. 🇩🇪DE_1 | 1.3MB/s (延迟: 279 ms)
-trojan://humanity@104.16.147.104:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
-# 1553. 🇳🇱[www.v2cross.com] V2Ray Vless-NL-18347 (延迟: 1276 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.63:38388#%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0
-# 729. 🏁ZZ_413 (延迟: 356 ms)
-# 965. 🇻🇳VN-103.186.155.146-4744 (延迟: 465 ms)
-# 1720. B - 🇺🇸 US 47 TG: @nodpai (延迟: 1431 ms)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#%E8%8B%B1%E5%9B%BD
-# 944. >>@oneclickvpnkeys::US (延迟: 448 ms)
-# 1656. 🇳🇱[www.v2cross.com] vless-NL (延迟: 1357 ms)
-# 239. @V2ray_confiig` (延迟: 115 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram#%E3%82%A4%E3%83%B3%E3%83%89
-# 1521. 🇬🇧[www.v2cross.com] vless-GB (延迟: 1260 ms)
-trojan://8r%3C%5B9%27l6hAO%238ZQi@143.198.31.221:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-# 1830. >>@OutlineVpnOfficial::BO (延迟: 1829 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.203:38388#%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0
-# 1566. >>@oneclickvpnkeys::GB (延迟: 1284 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.199:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
+# 208. 🍬11@oneclickvpnkeys (延迟: 108 ms)
+# 1637. 🇮🇳IN_1 | 1.5MB/s (延迟: 1342 ms)
+# 66. >>@oneclickvpnkeys::US (延迟: 80 ms)
+# 1042. 🇻🇳VN-103.186.155.31-5195 (延迟: 543 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.245:38388#%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0
+# 862. B - 🇭🇰 HK 07 TG: @nodpai (延迟: 406 ms)
+# 679. 🇻🇳VN-103.186.154.188-4895 (延迟: 337 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.70:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#
+# 1570. >>@oneclickvpnkeys::DE (延迟: 1291 ms)
+# 114. >>@oneclickvpnkeys::US (延迟: 91 ms)
+# 1520. 🇭🇰[www.v2cross.com] V2Ray Vless-HK-13142742 (延迟: 1260 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.23.173:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E7%8E%8B%E5%9B%BD
+# 199. >>@oneclickvpnkeys::US (延迟: 106 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&sni=sni.111000.dynv6.net&type=ws#
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@147.78.140.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#%E3%83%96%E3%83%AB%E3%82%AC%E3%83%AA%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.75.119.38:990#%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.71:38388#%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>

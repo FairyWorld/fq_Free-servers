@@ -35,26 +35,26 @@
 <h4>Node list: (A maximum of 20 nodes are shown here. More free nodes are available in the app.)</h4>
     
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.146.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#Russia
-# 1421. 🇳🇱NL_30 | 1.2MB/s (延迟: 1096 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.127:38388#Vietnam
-# 256. >>@oneclickvpnkeys::US (延迟: 120 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.130:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#United+States
-vless://30143e07-b734-4bd6-867c-7daf4782cccb@45.140.204.119:443?type=tcp&security=reality&fp=chrome&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&sid=67fb&sni=yahoo.com#Israel
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.148.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#United+States
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp&security=none#Japan
-# 789. 🇻🇳VN-103.186.154.20-4765 (延迟: 376 ms)
-# 1631. 🇱🇻 Join+Telegram:@Farah_VPN 🇱🇻 (延迟: 1340 ms)
-# 381. >>@oneclickvpnkeys::US (延迟: 164 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.87:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#France
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.61.51.100:8443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#Germany
-# 1244. 🇬🇧GB-82.38.31.187-0219 (延迟: 825 ms)
-# 904. 🏁ZZ_374 (延迟: 426 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.61:38388#Vietnam
-vless://4fe2b7d6-cdc0-44f3-8093-3a1fc92e8542@95.164.3.121:20089?encryption=none&security=none&type=tcp#Gibraltar
-# 439. >>@oneclickvpnkeys::US (延迟: 204 ms)
-trojan://humanity@www.calmlunch.com:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&type=ws#
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#Singapore
+# 531. 🇩🇪DE_1 | 1.3MB/s (延迟: 279 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.38:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#United+States
+# 1795. B - 🇺🇸 US 17 TG: @nodpai (延迟: 1593 ms)
+# 1079. 🇻🇳VN-103.186.154.154-4988 (延迟: 582 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.190:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#United+States
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#South+Korea
+# 852. B - 🇭🇰 HK 12 TG: @nodpai (延迟: 400 ms)
+# 1100. 🇺🇸US_12 | 3.6MB/s (延迟: 619 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.15:38388#Vietnam
+# 48. >>@oneclickvpnkeys::US (延迟: 75 ms)
+# 433. >>@oneclickvpnkeys::US (延迟: 202 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.206:38388#Vietnam
+# 124. >>@oneclickvpnkeys::US (延迟: 93 ms)
+# 501. >>@oneclickvpnkeys::US (延迟: 257 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.208.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#The+Netherlands
+ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ==@149.102.149.207:80#United+Kingdom
+trojan://8r%3C%5B9%27l6hAO%238ZQi@207.246.122.197:2053?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2#United+States
+# 757. >>@oneclickvpnkeys::US (延迟: 364 ms)
+# 1856. >>@oneclickvpnkeys::DE (延迟: 2103 ms)
+# 971. 🏁ZZ_233 (延迟: 470 ms)
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

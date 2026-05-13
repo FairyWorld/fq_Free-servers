@@ -35,26 +35,26 @@
  <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-trojan://8r%3C%5B9%27l6hAO%238ZQi@91.200.242.118:26517?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#Japan
-# 957. 🏁ZZ_274 (延迟: 456 ms)
-# 1063. 🏁ZZ_375 (延迟: 566 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.142.165:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.rocks&type=ws#United+Kingdom
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.237:8443?encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#France
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.233:38388#Vietnam
-# 1211. 🇳🇱[www.v2cross.com] Outline VPN-NL-12811423 (延迟: 781 ms)
-# 1480. >>@configshub2::GB (延迟: 1218 ms)
-# 919. C - 🇭🇰 HK 22 TG: @nodpai (延迟: 432 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.170:38388#Vietnam
-# 1136. @monacoVPN (延迟: 705 ms)
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.33:8880?note=---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---&mode=gun&security=none&encryption=none&type=grpc#Mexico
-# 888. 🏁ZZ_329 (延迟: 417 ms)
-# 174. >>@oneclickvpnkeys::US (延迟: 103 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.174.80.238:443?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#United+States
-# 1413. 🇫🇷[www.v2cross.com] V2Ray Vless-FR-13618845 (延迟: 1078 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.40:38388#Vietnam
-# 478. 🇸🇬[www.v2nodes.com] V2Ray Vmess-SG-7314090 (延迟: 237 ms)
-# 249. >>@oneclickvpnkeys::US (延迟: 119 ms)
-# 226. >>@oneclickvpnkeys::US (延迟: 112 ms)
+# 769. 🇻🇳VN-103.186.155.51-4960 (延迟: 368 ms)
+vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&sid=94f9&type=tcp&headerType=none#Switzerland
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.37:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#United+States
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.63.63:2053?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#Iran
+# 1525. 🇩🇪DE_6 | 1.3MB/s (延迟: 1264 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?encryption=none&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#
+# 1219. 🇮🇳[www.v2cross.com] V2Ray Vless-IN-7709949 (延迟: 791 ms)
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@34.180.125.14:443?sni=gogo.vks.dpdns.org&type=ws&host=gogo.vks.dpdns.org&path=/fp=chrome&security=tls#United+States
+vless://bafacd98-136a-4530-838d-4e5c51838dac@cf7.danfeng.eu.org:2087?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&fp=firefox&insecure=0&allowInsecure=0&ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=juzi8186.qea.ccwu.cc&path=%2Ffavs%2Fcollect%2Fjuzibaipiao%3Fed%3D2560#
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.243:38388#Vietnam
+# 310. 🇸🇬[www.v2cross.com] V2Ray Vless-SG-3429 (延迟: 134 ms)
+# 1197. 🇳🇱[www.v2cross.com] Outline VPN-NL-5935006 (延迟: 774 ms)
+# 47. B - 🇺🇸 US 03 TG: @nodpai (延迟: 75 ms)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#United+Kingdom
+# 509. >>@oneclickvpnkeys::US (延迟: 267 ms)
+# 1719. >>@oneclickvpnkeys::GB (延迟: 1427 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.250.137.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#United+States
+# 610. 🏁ZZ_436 (延迟: 314 ms)
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.4:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#Germany
+# 417. Fast Deploy Your Own Worker For Creation Of Configs : https://telegraph.rayan-config.workers.dev/translate (延迟: 187 ms)
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

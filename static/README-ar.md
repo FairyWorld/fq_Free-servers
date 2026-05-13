@@ -35,26 +35,26 @@
  <h4>قائمة العقد: (يتم عرض 20 عقدة كحد أقصى هنا. تتوفر العقد المجانية الأخرى في التطبيق)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#United+Kingdom
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.182.234:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#France
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.160:38388#Vietnam
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.141.125:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#Spain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.235.56.69:990#Austria
-# 378. >>@oneclickvpnkeys::US (延迟: 163 ms)
-# 233. >>@oneclickvpnkeys::US (延迟: 113 ms)
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#Vietnam
-# 1013. 🇻🇳VN-103.186.155.13-5002 (延迟: 510 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.55.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#United+Kingdom
-# 541. 🇺🇸US_9 | 1021KB/s (延迟: 286 ms)
-# 737. 🇭🇰[www.v2cross.com] Trojan VPN-HK-12310723 (延迟: 358 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.43:443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#United+States
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#United+States
-# 700. 🇯🇵[www.v2cross.com] V2Ray Vless-JP-13941070 (延迟: 344 ms)
-# 823. 🏁ZZ_224 (延迟: 387 ms)
-# 83. >>@oneclickvpnkeys::US (延迟: 84 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@85.92.108.39:443?allowInsecure=1&encryption=none&host=sni.111000.v6.army&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&sni=sni.111000.v6.army&type=ws#The+Netherlands
-# 1145. 🇩🇪[www.v2cross.com] Outline VPN-DE-12471532 (延迟: 721 ms)
-# 1702. B - 🇺🇸 US 32 TG: @nodpai (延迟: 1404 ms)
+# 235. >>@configshub2::US (延迟: 114 ms)
+# 97. >>@oneclickvpnkeys::US (延迟: 88 ms)
+trojan://8r%3C%5B9%27l6hAO%238ZQi@212.192.15.182:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#Hong+Kong
+# 553. 🇩🇪 t.me/Natrixo BB (延迟: 291 ms)
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=/#Finland
+# 489. >>@oneclickvpnkeys::US (延迟: 245 ms)
+# 65. 🌱8@oneclickvpnkeys (延迟: 80 ms)
+# 1171. 🇺🇸US_6 | 2.2MB/s (延迟: 757 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.186.219.47:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#United+States
+# 27. >>@oneclickvpnkeys::US (延迟: 71 ms)
+# 1784. 🇵🇱PL_2 | 1.1MB/s (延迟: 1555 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.59.215:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Estonia
+# 1640. >>@oneclickvpnkeys::NL (延迟: 1345 ms)
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#France
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#Chile
+# 1186. >>@v2ray_configs_pool::US (延迟: 768 ms)
+# 1258. B - 🇸🇬 SG 05 TG: @nodpai (延迟: 842 ms)
+trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&insecure=0&allowInsecure=0&type=tcp&headerType=none#Spain
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.166:38388#Vietnam
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.220:38388#Vietnam
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

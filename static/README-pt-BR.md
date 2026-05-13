@@ -35,26 +35,26 @@
  <h4>Lista de nós: (No máximo 20 nós são exibidos aqui. Outros nós gratuitos estão disponíveis no app.)</h4>
     
 ```
-# 1247. 🇬🇧GB_47 (延迟: 829 ms)
-# 482. >>@v2ray_configs_pool::US (延迟: 238 ms)
-trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?sni=HL-FREEDOM-1.UNDEF.NETWORK&type=tcp&fp=chrome#Ucr%C3%A2nia
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.58.50.202:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#Ir%C3%A3
-# 174. >>@oneclickvpnkeys::US (延迟: 103 ms)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#Reino+Unido
-# 690. 🏁ZZ_429 (延迟: 340 ms)
-vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?security=reality&encryption=none&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=3c#R%C3%BAssia
-# 518. 🇯🇵JP_2 | 3.5MB/s (延迟: 273 ms)
-ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ==@2.58.81.221:80#EUA
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.191:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%C3%81ustria
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWRUZGVUdaa050YlRHQUdkZTR2VVFqcW5HU1QtYmdUUA==@144.31.96.174:8388#EUA
-trojan://8r%3C%5B9%27l6hAO%238ZQi@77.110.114.254:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#L%C3%ADbano
-# 629. 🇻🇳VN-103.186.154.185-5051 (延迟: 321 ms)
-trojan://162534@46.8.226.108:443?allowInsecure=0&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560#R%C3%BAssia
-# 1324. 🇹🇷[www.v2nodes.com] V2Ray Vmess-TR-13655390 (延迟: 963 ms)
-vless://bafacd98-136a-4530-838d-4e5c51838dac@146.190.233.213:8443?encryption=none&fp=firefox&host=juzi8186.qea.ccwu.cc&security=tls&sni=juzi8186.qea.ccwu.cc&type=ws#Holanda
-# 1076. 🇺🇸[www.v2cross.com] V2Ray Vless-US-213596 (延迟: 581 ms)
-vless://f2a73750-3087-48ff-a763-1348c15dce68@162.159.153.4:443?allowInsecure=1&encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&type=ws#
-# 310. 🇸🇬[www.v2cross.com] V2Ray Vless-SG-3429 (延迟: 134 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.225.72.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#EUA
+# 273. ⛲7@oneclickvpnkeys (延迟: 124 ms)
+# 952. 🇻🇳VN-103.186.154.59-4823 (延迟: 453 ms)
+# 367. 🫎42@oneclickvpnkeys (延迟: 157 ms)
+trojan://8r%3C%5B9%27l6hAO%238ZQi@137.184.228.85:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#EUA
+# 1328. 🇫🇷[www.v2cross.com] V2Ray Vless-FR-12723523 (延迟: 975 ms)
+# 1225. 🇭🇰HK_68 (延迟: 795 ms)
+trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%C3%81ustria
+# 575. 🇻🇳VN-103.186.154.246-5189 (延迟: 301 ms)
+# 856. 🇺🇸US_23 | 1.5MB/s (延迟: 403 ms)
+# 500. 🇹🇼TW_108 (延迟: 257 ms)
+# 842. 🇻🇳VN-103.186.154.27-5205 (延迟: 397 ms)
+# 1462. 🫎59@oneclickvpnkeys (延迟: 1182 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.103:38388#Vietn%C3%A3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.72.206:8443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#
+# 26. >>@oneclickvpnkeys::US (延迟: 70 ms)
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Fran%C3%A7a
+# 882. 🇻🇳VN-103.186.155.70-5026 (延迟: 412 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.72:38388#Vietn%C3%A3
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.18.12.149:443?path=/&security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
